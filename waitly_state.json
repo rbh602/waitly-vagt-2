@@ -1,0 +1,131 @@
+{
+  "https://waitly.eu/da/foreninger/1500-koebenhavn-v/andelsboligforeningen-enghaven": {
+    "AB Enghaven - Ekstern Venteliste": 960,
+    "AB Enghaven - Intern Venteliste": 325
+  },
+  "https://waitly.eu/da/foreninger/1620-koebenhavn-v/a-b-vesterbrogade-141-vesterfaelledvej-1a-c": {
+    "Børneventeliste": 1,
+    "Ekstern venteliste": 80,
+    "Relation venteliste": 17
+  },
+  "https://waitly.eu/da/foreninger/1661-koebenhavn/a-b-westend": {
+    "A/B Westend 24-26 - Ekstern venteliste": 150,
+    "A/B Westend 24-26 - Intern venteliste": 16
+  },
+  "https://waitly.eu/da/foreninger/1668-koebenhavn-v/a-b-mysundegade-15-17": {
+    "Ekstern venteliste": 40,
+    "Intern venteliste": 7,
+    "Relations venteliste": 3
+  },
+  "https://waitly.eu/da/foreninger/1700-koebenhavn-v/a-b-halmtorvet-36-42": {
+    "A/B Halmtorvet 36-42 - Ekstern Venteliste": 125,
+    "A/B Halmtorvet 36-42 - Intern Venteliste": 16
+  },
+  "https://waitly.eu/da/foreninger/1749-koebenhavn-v/a-b-kongens-bryghus": {
+    "A/B Kongens Bryghus - Ekstern venteliste": 500,
+    "A/B Kongens Bryghus - Intern venteliste": 82
+  },
+  "https://waitly.eu/da/foreninger/1754-koebenhavn-v/a-b-baghuset": {
+    "Ekstern venteliste": 307,
+    "Intern venteliste": 25
+  },
+  "https://waitly.eu/da/foreninger/1762-koebenhavn-v/a-b-ny-carlsberg": {
+    "Ekstern": 500,
+    "Intern": 248
+  },
+  "https://waitly.eu/da/foreninger/1800-frederiksberg-c/a-b-vesterbrogade-176-kochsvej-44-46": {
+    "Ekstern venteliste": 249,
+    "Intern venteliste": 24
+  },
+  "https://waitly.eu/da/foreninger/2000-frederiksberg/a-b-bentzonsvej": {
+    "Ekstern venteliste": 200,
+    "Intern venteliste": 10
+  },
+  "https://waitly.eu/da/foreninger/2000-frederiksberg/a-b-dronningensvej-6-8": {
+    "Ekstern venteliste": 42,
+    "Intern venteliste": 8,
+    "Relations venteliste": 6
+  },
+  "https://waitly.eu/da/foreninger/2000-frederiksberg/a-b-lyoevej-sprogoevej": {
+    "Ekstern venteliste": 105
+  },
+  "https://waitly.eu/da/foreninger/2000-frederiksberg/a-b-marienborg": {
+    "AB Marienborg - Børne venteliste": 55,
+    "AB Marienborg - Ekstern venteliste": 356,
+    "AB Marienborg - Intern venteliste": 45
+  },
+  "https://waitly.eu/da/foreninger/2000-frederiksberg/a-b-mariendalshus": {
+    "Børneventeliste": 10,
+    "Ekstern venteliste": 151,
+    "Intern venteliste": 40
+  },
+  "https://waitly.eu/da/foreninger/2100-koebenhavn-oe/a-b-classensgade-43-45": {
+    "Ekstern venteliste": 40,
+    "Intern venteliste": 10
+  },
+  "https://waitly.eu/da/foreninger/2100-koebenhavn-oe/a-b-strand": {
+    "Børneventeliste": 37,
+    "Ekstern venteliste": 136,
+    "Intern venteliste": 46,
+    "Sammenlægning": 30
+  },
+  "https://waitly.eu/da/foreninger/2100-koebenhavn-oe/a-b-trepkasgade-4-6": {
+    "Børneventeliste": 25,
+    "Ekstern venteliste": 246,
+    "Intern venteliste": 20
+  },
+  "https://waitly.eu/da/foreninger/2200-koebenhavn-n/a-b-borups-plads": {
+    "Børneventeliste": 39,
+    "Ekstern venteliste": 1535,
+    "Intern venteliste": 100
+  },
+  "https://waitly.eu/da/foreninger/2200-koebenhavn-n/a-b-gilbjerggaard": {
+    "Børneventeliste": 56,
+    "Ekstern venteliste": 200,
+    "Intern venteliste": 75,
+    "Skilsmisseliste": 2
+  },
+  "https://waitly.eu/da/foreninger/2200-koebenhavn-n/a-b-heimdal": {
+    "AB Heimdal - Anbefaling venteliste": 35,
+    "AB Heimdal - Ekstern venteliste": 100,
+    "AB Heimdal - Intern venteliste": 30
+  },
+  "https://waitly.eu/da/foreninger/2200-koebenhavn-n/a-b-toemrerbo": {
+    "Ekstern venteliste": 125,
+    "Intern venteliste": 17
+  },
+  "https://waitly.eu/da/foreninger/2200-koebenhavn-n/andelsboligforeningen-ab-thor": {
+    "A/B Thor - Ekstern venteliste": 400,
+    "A/B Thor - Intern venteliste": 122
+  },
+  "https://waitly.eu/da/foreninger/2200-koebenhavn-n/andelsboligforeningen-jaeger": {
+    "A/B Jæger - Ekstern venteliste": 1753,
+    "A/B Jæger - Intern venteliste": 256
+  },
+  "https://waitly.eu/da/foreninger/2300-koebenhavn-s/a-b-cumberland": {
+    "A/B Cumberland - Ekstern venteliste": 165,
+    "A/B Cumberland - Intern venteliste": 17
+  },
+  "https://waitly.eu/da/foreninger/2400-koebenhavn-nv/a-b-kolibrien": {
+    "AB Kolibrien - Ekstern venteliste": 250,
+    "AB Kolibrien - Intern venteliste (For beboere)": 34
+  },
+  "https://waitly.eu/da/foreninger/2400-koebenhavn-nv/a-b-soenderborghus": {
+    "Ekstern venteliste": 492,
+    "Familie venteliste": 120,
+    "Intern venteliste": 58
+  },
+  "https://waitly.eu/da/foreninger/2400-koebenhavn-nv/a-b-uglegaarden": {
+    "Børneventeliste": 2,
+    "Ekstern venteliste": 175,
+    "Intern venteliste": 28
+  },
+  "https://waitly.eu/da/foreninger/2400-koebenhavn-nv/andelsboligforening-i-nordvest": {
+    "A/B Nattergalevej 22-30 - Ekstern venteliste": 200,
+    "A/B Nattergalevej 22-30 - Intern venteliste": 19
+  },
+  "https://waitly.eu/da/foreninger/koebenhavn-k/a-b-na-tur": {
+    "Ekstern venteliste": 133,
+    "Intern venteliste": 22
+  }
+}
