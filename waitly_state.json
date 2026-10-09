@@ -19,8 +19,7 @@
   },
   "https://waitly.eu/da/foreninger/1700-koebenhavn-v/a-b-halmtorvet-36-42": {
     "A/B Halmtorvet 36-42 - Ekstern Venteliste": 125,
-    "A/B Halmtorvet 36-42 - Intern Venteliste": 17,
-    "_fejl": true
+    "A/B Halmtorvet 36-42 - Intern Venteliste": 17
   },
   "https://waitly.eu/da/foreninger/1749-koebenhavn-v/a-b-kongens-bryghus": {
     "A/B Kongens Bryghus - Ekstern venteliste": 500,
@@ -53,8 +52,7 @@
   "https://waitly.eu/da/foreninger/2000-frederiksberg/a-b-marienborg": {
     "AB Marienborg - Børne venteliste": 55,
     "AB Marienborg - Ekstern venteliste": 354,
-    "AB Marienborg - Intern venteliste": 45,
-    "_fejl": true
+    "AB Marienborg - Intern venteliste": 45
   },
   "https://waitly.eu/da/foreninger/2000-frederiksberg/a-b-mariendalshus": {
     "Børneventeliste": 10,
@@ -98,8 +96,7 @@
   },
   "https://waitly.eu/da/foreninger/2200-koebenhavn-n/andelsboligforeningen-ab-thor": {
     "A/B Thor - Ekstern venteliste": 400,
-    "A/B Thor - Intern venteliste": 122,
-    "_fejl": true
+    "A/B Thor - Intern venteliste": 122
   },
   "https://waitly.eu/da/foreninger/2200-koebenhavn-n/andelsboligforeningen-jaeger": {
     "A/B Jæger - Ekstern venteliste": 1749,
