@@ -39,7 +39,8 @@
   },
   "https://waitly.eu/da/foreninger/2000-frederiksberg/a-b-bentzonsvej": {
     "Ekstern venteliste": 200,
-    "Intern venteliste": 10
+    "Intern venteliste": 10,
+    "_fejl": true
   },
   "https://waitly.eu/da/foreninger/2000-frederiksberg/a-b-dronningensvej-6-8": {
     "Ekstern venteliste": 42,
